@@ -1,0 +1,212 @@
+{
+
+      "HTML": [
+        {
+          "question": "What does HTML stand for?",
+          "options": ["Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Tool Markup Language"],
+          "answer": "Hyper Text Markup Language"
+        },
+        {
+          "question": "Which HTML tag is used to define a paragraph?",
+          "options": ["<para>", "<p>", "<paragraph>", "<text>"],
+          "answer": "<p>"
+        },
+        {
+          "question": "What is the correct HTML tag for the largest heading?",
+          "options": ["<h6>", "<h1>", "<header>", "<heading>"],
+          "answer": "<h1>"
+        },
+        {
+          "question": "How can you create a hyperlink in HTML?",
+          "options": ["<a href='url'>Link</a>", "<link href='url'>", "<hyperlink url='url'>Link</hyperlink>", "<a url='url'>Link</a>"],
+          "answer": "<a href='url'>Link</a>"
+        },
+        {
+          "question": "Which attribute is used to specify a unique identifier for an HTML element?",
+          "options": ["class", "id", "name", "style"],
+          "answer": "id"
+        },
+        {
+          "question": "What is the correct HTML tag to insert an image?",
+          "options": ["<image>", "<img>", "<pic>", "<photo>"],
+          "answer": "<img>"
+        },
+        {
+          "question": "Which attribute specifies an alternate text for an image?",
+          "options": ["title", "alt", "src", "description"],
+          "answer": "alt"
+        },
+        {
+          "question": "What does the <br> tag do?",
+          "options": ["Creates a break in text", "Creates a horizontal line", "Makes text bold", "Adds a space"],
+          "answer": "Creates a break in text"
+        },
+        {
+          "question": "Which doctype declaration is correct for HTML5?",
+          "options": ["<!DOCTYPE html>", "<!DOCTYPE HTML5>", "<DOCTYPE html>", "<DOCTYPE HTML>"],
+          "answer": "<!DOCTYPE html>"
+        },
+        {
+          "question": "Which HTML tag is used to create an unordered list?",
+          "options": ["<ul>", "<ol>", "<list>", "<unordered>"],
+          "answer": "<ul>"
+        }
+      ],
+      "CSS": [
+        {
+          "question": "What does CSS stand for?",
+          "options": ["Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets", "Computer Style Sheets"],
+          "answer": "Cascading Style Sheets"
+        },
+        {
+          "question": "Which property is used to change the background color?",
+          "options": ["background-color", "color", "bg-color", "background"],
+          "answer": "background-color"
+        },
+        {
+          "question": "How do you select an element with an ID of 'main'?",
+          "options": ["#main", ".main", "main", "*main"],
+          "answer": "#main"
+        },
+        {
+          "question": "Which property controls the text size?",
+          "options": ["font-size", "text-style", "text-size", "font-style"],
+          "answer": "font-size"
+        },
+        {
+          "question": "What is the default position value of an HTML element?",
+          "options": ["static", "relative", "absolute", "fixed"],
+          "answer": "static"
+        },
+        {
+          "question": "Which property is used to make the text bold?",
+          "options": ["font-weight", "text-style", "font-bold", "bold"],
+          "answer": "font-weight"
+        },
+        {
+          "question": "How do you center an element using CSS?",
+          "options": ["margin: auto;", "text-align: center;", "display: center;", "align: center;"],
+          "answer": "margin: auto;"
+        },
+        {
+          "question": "Which property is used to change the font of an element?",
+          "options": ["font-family", "font-type", "font-style", "font"],
+          "answer": "font-family"
+        },
+        {
+          "question": "Which CSS property is used to control the layout of elements in a flex container?",
+          "options": ["display", "flex", "align-items", "justify-content"],
+          "answer": "display"
+        },
+        {
+          "question": "What does the z-index property do?",
+          "options": ["Controls the stack order of elements", "Controls the visibility", "Changes the opacity", "Defines the width"],
+          "answer": "Controls the stack order of elements"
+        }
+      ],
+      "JavaScript": [
+        {
+          "question": "What is the correct syntax for referring to an external script?",
+          "options": ["<script src='script.js'>", "<script href='script.js'>", "<script ref='script.js'>", "<script file='script.js'>"],
+          "answer": "<script src='script.js'>"
+        },
+        {
+          "question": "How do you write 'Hello World' in an alert box?",
+          "options": ["alert('Hello World');", "msg('Hello World');", "msgBox('Hello World');", "alertBox('Hello World');"],
+          "answer": "alert('Hello World');"
+        },
+        {
+          "question": "Which data type is not a primitive in JavaScript?",
+          "options": ["String", "Object", "Boolean", "Number"],
+          "answer": "Object"
+        },
+        {
+          "question": "Which keyword is used to declare a variable?",
+          "options": ["var", "let", "const", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "Which operator is used to assign a value to a variable?",
+          "options": ["=", "==", "===", "=>"],
+          "answer": "="
+        },
+        {
+          "question": "How do you write a comment in JavaScript?",
+          "options": ["// This is a comment", "<!-- This is a comment -->", "/* This is a comment */", "# This is a comment"],
+          "answer": "// This is a comment"
+        },
+        {
+          "question": "What is the output of '2' + 2?",
+          "options": ["4", "'22'", "NaN", "Undefined"],
+          "answer": "'22'"
+        },
+        {
+          "question": "Which method is used to parse a string to an integer?",
+          "options": ["parseInt()", "parseFloat()", "Number()", "String()"],
+          "answer": "parseInt()"
+        },
+        {
+          "question": "Which event occurs when the user clicks on an HTML element?",
+          "options": ["onchange", "onmouseover", "onclick", "onfocus"],
+          "answer": "onclick"
+        },
+        {
+          "question": "What is the output of typeof null?",
+          "options": ["'object'", "'null'", "'undefined'", "'string'"],
+          "answer": "'object'"
+        }
+      ],
+      "ReactJS": [
+        {
+          "question": "What is React primarily used for?",
+          "options": ["Building user interfaces", "Managing databases", "Creating APIs", "Styling web pages"],
+          "answer": "Building user interfaces"
+        },
+        {
+          "question": "What is JSX?",
+          "options": ["A syntax extension for JavaScript", "A JavaScript library", "A CSS preprocessor", "A type of database"],
+          "answer": "A syntax extension for JavaScript"
+        },
+        {
+          "question": "Which method is used to render React elements?",
+          "options": ["ReactDOM.render()", "React.render()", "render()", "React.createElement()"],
+          "answer": "ReactDOM.render()"
+        },
+        {
+          "question": "What is the virtual DOM in React?",
+          "options": ["A lightweight copy of the actual DOM", "A JavaScript library", "The React library", "A CSS selector"],
+          "answer": "A lightweight copy of the actual DOM"
+        },
+        {
+          "question": "What is a React component?",
+          "options": ["Reusable pieces of UI", "A JavaScript library", "A type of API", "A state management tool"],
+          "answer": "Reusable pieces of UI"
+        },
+        {
+          "question": "How do you create a functional component in React?",
+          "options": ["function ComponentName() {}", "class ComponentName extends React.Component {}", "React.createComponent()", "React.useComponent()"],
+          "answer": "function ComponentName() {}"
+        },
+        {
+          "question": "What is the use of useState in React?",
+          "options": ["To manage state in functional components", "To fetch data", "To create a component", "To render a component"],
+          "answer": "To manage state in functional components"
+        },
+        {
+          "question": "Which lifecycle method is called after a component is rendered?",
+          "options": ["componentDidMount", "componentDidUpdate", "shouldComponentUpdate", "componentWillUnmount"],
+          "answer": "componentDidMount"
+        },
+        {
+          "question": "How do you pass data from parent to child component in React?",
+          "options": ["Props", "State", "Events", "Methods"],
+          "answer": "Props"
+        },
+        {
+          "question": "What is the purpose of React Router?",
+          "options": ["To handle routing in React applications", "To manage state", "To fetch data", "To create components"],
+          "answer": "To handle routing in React applications"
+        }
+      ]
+    }
+  
